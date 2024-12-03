@@ -1,4 +1,4 @@
-f = open("p1input.txt", "r")
+f = open("Day 1/DayOneInput.txt", "r")
 list1 = []
 list2 = []
 total = 0
